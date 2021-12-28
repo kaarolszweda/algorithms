@@ -12,7 +12,9 @@ def selection_sort(lst):
 
 arr=[12,34,51,22,33,11,99,23,43,87,221,34]
 
-
 lst = arr(len(arr)-1)
+
+def clone():
+ return 0
 
 find_min_index(lst)
