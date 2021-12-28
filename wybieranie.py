@@ -15,6 +15,6 @@ arr=[12,34,51,22,33,11,99,23,43,87,221,34]
 lst = arr(len(arr)-1)
 
 def clone():
- return 10
+ return 12
 
 find_min_index(lst)
