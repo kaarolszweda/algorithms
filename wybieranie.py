@@ -17,5 +17,4 @@ lst = arr(len(arr)-1)
 def clone():
     print("I like potatoes")
  
-
 find_min_index(lst)
